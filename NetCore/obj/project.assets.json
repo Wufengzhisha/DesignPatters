@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\c#\\NetCore\\NetCore.csproj",
+      "projectUniqueName": "D:\\c#\\DesignPatters\\netcore\\NetCore.csproj",
       "projectName": "NetCore",
-      "projectPath": "D:\\c#\\NetCore\\NetCore.csproj",
+      "projectPath": "D:\\c#\\DesignPatters\\netcore\\NetCore.csproj",
       "packagesPath": "C:\\Users\\jwzhe\\.nuget\\packages\\",
-      "outputPath": "D:\\c#\\NetCore\\obj\\",
+      "outputPath": "D:\\c#\\DesignPatters\\netcore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jwzhe\\AppData\\Roaming\\NuGet\\NuGet.Config"

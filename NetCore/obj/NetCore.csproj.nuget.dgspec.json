@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c#\\NetCore\\NetCore.csproj": {}
+    "D:\\c#\\DesignPatters\\NetCore\\NetCore.csproj": {}
   },
   "projects": {
-    "D:\\c#\\NetCore\\NetCore.csproj": {
+    "D:\\c#\\DesignPatters\\NetCore\\NetCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c#\\NetCore\\NetCore.csproj",
+        "projectUniqueName": "D:\\c#\\DesignPatters\\NetCore\\NetCore.csproj",
         "projectName": "NetCore",
-        "projectPath": "D:\\c#\\NetCore\\NetCore.csproj",
+        "projectPath": "D:\\c#\\DesignPatters\\NetCore\\NetCore.csproj",
         "packagesPath": "C:\\Users\\jwzhe\\.nuget\\packages\\",
-        "outputPath": "D:\\c#\\NetCore\\obj\\",
+        "outputPath": "D:\\c#\\DesignPatters\\NetCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jwzhe\\AppData\\Roaming\\NuGet\\NuGet.Config"
