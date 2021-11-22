@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wdGUzLdVS+7TXody+PWDgGiTsBDKWK5Ey8aBbcOgQuj6slO77UCq8Er+6G8A8/mEHeoHn2XnybCn2TNE/AKzEg==",
+  "dgSpecHash": "eINZzGfUt7MPBiKlJ4i5ReIkwpfE5jK9khpAdbWttLK0NfzqKaTVJLxmtRiL/nI3S87ehwMwUHmSu8XC3oyUZw==",
   "success": true,
-  "projectFilePath": "D:\\c#\\DesignPatters\\NetCore\\NetCore.csproj",
+  "projectFilePath": "D:\\c#\\DesignPatters\\netcore\\NetCore.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
