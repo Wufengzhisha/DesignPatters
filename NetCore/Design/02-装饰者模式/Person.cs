@@ -1,8 +1,8 @@
 public class Person
 {
-    public Person(){}
 
-    public string name ;
+    public Person(){}
+    public string name = string.Empty ;
     public Person(string name)
     {
         this.name = name;
@@ -18,7 +18,7 @@ public class Person
 //服饰类
 public class Finery:Person
 {
-    protected Person component;
+    protected Person component = new Person();
 
     public void Decorate(Person component)
     {

@@ -38,7 +38,7 @@ public class Proxy : IGiveGift
 }
 public class SchoolGirl
 {
-  private string name;
+  private string name = string.Empty;
   public string Name
   {
     get { return name; }
