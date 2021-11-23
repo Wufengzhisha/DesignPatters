@@ -3,5 +3,5 @@
 Console.WriteLine("Hello, World!");
 
 
-Start_Template b = new Start_Template();
-b.Go();
+ B_Startup b = new B_Startup();
+ b.Go();
