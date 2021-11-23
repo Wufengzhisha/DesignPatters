@@ -9,6 +9,7 @@ public class B_Startup
     private string new_path = @"D:\c#\video_1";
     public void Go()
     {
+        Console.WriteLine("Start...");
         DirectoryInfo directory = new DirectoryInfo(path);
         foreach (var item in directory.GetDirectories())
         {
@@ -29,6 +30,7 @@ public class B_Startup
             }
 
         }
+        Console.WriteLine("End...");
     }
 
 
@@ -38,7 +40,7 @@ public class B_Startup
         StreamReader streamReader = new StreamReader(infoFile, Encoding.UTF8);
         string line = string.Empty;
         string sumline = string.Empty; ;
-        while ((line = streamReader.ReadLine()) != null)
+        while ((line = streamReader.ReadLine()??"") != "")
         {
             sumline += line.ToString();
         }
