@@ -2,7 +2,7 @@
 // See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
 
-// Start_Iterator s = new Start_Iterator();
-// s.Go();
+S_Bridging s = new S_Bridging();
+s.Go();
 
-Singleton.GetSingleton().Hello();
+//Singleton.GetSingleton().Hello();
